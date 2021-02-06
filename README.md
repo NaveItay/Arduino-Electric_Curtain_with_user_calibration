@@ -3,5 +3,5 @@ Smart curtain control remote with the option to set times set by the user for "c
 
 
 ###### Video Link
-> 
-> Link to [Youtube](https://youtu.be/_jCWKTiXlV4).
+ 
+- Link to [Youtube](https://youtu.be/_jCWKTiXlV4).
